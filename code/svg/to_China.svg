@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1004.52014"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-502.795074 -480.309662 1004.520142 951.638428" height="951.6384"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Belarus id_China"
+              d="M -329.437469,365.191895 A 470.699037,470.699037 0,0 1,-101.470291,-140.005737"
+              stroke="#ebf7fa" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Uzbekistan id_China"
+              d="M 466.244507,18.859291 A 490.012442,490.012442 0,0 1,-89.590324,-137.574799"
+              stroke="#ebf7fa" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_States id_China"
+              d="M -460.237305,113.216087 A 376.360128,376.360128 0,0 1,-102.483391,-144.004379"
+              stroke="#e7f5f7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_States id_China"
+              d="M -460.237305,113.216087 A 376.360128,376.360128 0,0 1,-102.483391,-144.004379"
+              stroke="#e7f5f7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_States id_China"
+              d="M -460.237305,113.216087 A 376.360128,376.360128 0,0 1,-102.483391,-144.004379"
+              stroke="#e7f5f7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_States id_China"
+              d="M -460.237305,113.216087 A 376.360128,376.360128 0,0 1,-102.483391,-144.004379"
+              stroke="#e7f5f7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_Kingdom id_China"
+              d="M 116.487244,159.352463 A 311.530927,311.530927 0,0 1,-94.596085,-135.904221"
+              stroke="#e8f6f8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_Kingdom id_China"
+              d="M 116.487244,159.352463 A 311.530927,311.530927 0,0 1,-94.596085,-135.904221"
+              stroke="#e8f6f8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United_Kingdom id_China"
+              d="M 116.487244,159.352463 A 311.530927,311.530927 0,0 1,-94.596085,-135.904221"
+              stroke="#e8f6f8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_China"
+              d="M 404.858276,-250.724350 A 430.773502,430.773502 0,0 1,-87.161087,-140.682495"
+              stroke="#d3edea" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Switzerland id_China"
+              d="M -57.033531,-468.346619 A 275.733021,275.733021 0,0 1,-89.123817,-149.842148"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Switzerland id_China"
+              d="M -57.033531,-468.346619 A 275.733021,275.733021 0,0 1,-89.123817,-149.842148"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Soviet_Union id_China"
+              d="M -274.954163,-350.834839 A 241.663910,241.663910 0,0 1,-95.517700,-151.836380"
+              stroke="#7db89b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Russia id_China"
+              d="M -175.123886,76.980843 A 209.525342,209.525342 0,0 1,-100.881203,-139.099686"
+              stroke="#76b293" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Japan id_China"
+              d="M 168.794205,461.650238 A 553.709644,553.709644 0,0 1,-96.241508,-136.098877"
+              stroke="#ebf7fa" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Italy id_China"
+              d="M -445.019135,-149.872391 A 295.722517,295.722517 0,0 1,-100.910408,-148.668060"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Italy id_China"
+              d="M -445.019135,-149.872391 A 295.722517,295.722517 0,0 1,-100.910408,-148.668060"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Israel id_China"
+              d="M 386.077911,273.062500 A 533.761575,533.761575 0,0 1,-92.698189,-136.105316"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Israel id_China"
+              d="M 386.077911,273.062500 A 533.761575,533.761575 0,0 1,-92.698189,-136.105316"
+              stroke="#eaf6f9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Germany id_China"
+              d="M 191.615799,-416.936523 A 334.023246,334.023246 0,0 1,-86.562843,-145.023636"
+              stroke="#def2f1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_France id_China"
+              d="M -84.699623,399.021912 A 459.093152,459.093152 0,0 1,-99.041084,-137.328247"
+              stroke="#c1e6de" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Canada id_China"
+              d="M 170.713455,-106.483330 A 226.646236,226.646236 0,0 1,-88.655830,-138.423279"
+              stroke="#ebf7fa" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ebf7fa" fill-opacity="1.0" class="id_Belarus id_China"
+                  points="-98.850441,-141.467377 -100.739471,-138.695816 -102.201111,-141.315659"
+                  stroke="none"/>
+        <polyline fill="#ebf7fa" fill-opacity="1.0"
+                  class="id_Uzbekistan id_China"
+                  points="-91.425461,-139.948044 -88.403702,-138.492371 -90.776947,-136.657227"
+                  stroke="none"/>
+        <polyline fill="#e7f5f7" fill-opacity="1.0"
+                  class="id_United_States id_China"
+                  points="-99.483627,-143.966522 -102.502319,-142.504501 -102.464462,-145.504257"
+                  stroke="none"/>
+        <polyline fill="#e7f5f7" fill-opacity="1.0"
+                  class="id_United_States id_China"
+                  points="-99.483627,-143.966522 -102.502319,-142.504501 -102.464462,-145.504257"
+                  stroke="none"/>
+        <polyline fill="#e7f5f7" fill-opacity="1.0"
+                  class="id_United_States id_China"
+                  points="-99.483627,-143.966522 -102.502319,-142.504501 -102.464462,-145.504257"
+                  stroke="none"/>
+        <polyline fill="#e7f5f7" fill-opacity="1.0"
+                  class="id_United_States id_China"
+                  points="-99.483627,-143.966522 -102.502319,-142.504501 -102.464462,-145.504257"
+                  stroke="none"/>
+        <polyline fill="#e8f6f8" fill-opacity="1.0"
+                  class="id_United_Kingdom id_China"
+                  points="-94.554062,-138.903931 -93.096230,-135.883209 -96.095940,-135.925232"
+                  stroke="none"/>
+        <polyline fill="#e8f6f8" fill-opacity="1.0"
+                  class="id_United_Kingdom id_China"
+                  points="-94.554062,-138.903931 -93.096230,-135.883209 -96.095940,-135.925232"
+                  stroke="none"/>
+        <polyline fill="#e8f6f8" fill-opacity="1.0"
+                  class="id_United_Kingdom id_China"
+                  points="-94.554062,-138.903931 -93.096230,-135.883209 -96.095940,-135.925232"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#d3edea" fill-opacity="1.0" class="id_Ukraine id_China"
+                  points="-89.907188,-141.890350 -86.557159,-142.055542 -87.765015,-139.309448"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0"
+                  class="id_Switzerland id_China"
+                  points="-91.133896,-147.615128 -90.237320,-150.847183 -88.010315,-148.837112"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0"
+                  class="id_Switzerland id_China"
+                  points="-91.133896,-147.615128 -90.237320,-150.847183 -88.010315,-148.837112"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#7db89b" fill-opacity="1.0"
+                  class="id_Soviet_Union id_China"
+                  points="-95.130074,-148.861526 -97.005127,-151.642563 -94.030273,-152.030197"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#76b293" fill-opacity="1.0" class="id_Russia id_China"
+                  points="-98.482262,-140.901093 -99.980499,-137.900208 -101.781906,-140.299164"
+                  stroke="none"/>
+        <polyline fill="#ebf7fa" fill-opacity="1.0" class="id_Japan id_China"
+                  points="-95.582451,-139.025589 -94.778152,-135.769348 -97.704865,-136.428406"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0" class="id_Italy id_China"
+                  points="-98.500519,-146.881332 -101.803780,-147.463120 -100.017052,-149.873001"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0" class="id_Italy id_China"
+                  points="-98.500519,-146.881332 -101.803780,-147.463120 -100.017052,-149.873001"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0" class="id_Israel id_China"
+                  points="-93.367882,-139.029617 -91.236046,-136.440155 -94.160347,-135.770477"
+                  stroke="none"/>
+        <polyline fill="#eaf6f9" fill-opacity="1.0" class="id_Israel id_China"
+                  points="-93.367882,-139.029617 -91.236046,-136.440155 -94.160347,-135.770477"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#def2f1" fill-opacity="1.0" class="id_Germany id_China"
+                  points="-89.533287,-144.603561 -86.772881,-146.508850 -86.352806,-143.538422"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#c1e6de" fill-opacity="1.0" class="id_France id_China"
+                  points="-97.332184,-139.793945 -97.808235,-136.473801 -100.273933,-138.182693"
+                  stroke="none"/>
+        <polyline fill="#ebf7fa" fill-opacity="1.0" class="id_Canada id_China"
+                  points="-90.841400,-140.478348 -87.628304,-139.516068 -89.683357,-137.330490"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#eaf6f9" r="4.753333" cx="-328.3548"
+                class="id_Belarus" cy="370.24384" stroke="#a3acae"
+                stroke-opacity="1.0" stroke-width="0.8266666"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="4.6" cx="-94.484024"
+                class="id_China" cy="-143.90344" stroke="#a5adaf"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#eaf6f9" r="4.753333" cx="471.07816"
+                class="id_Uzbekistan" cy="17.034395" stroke="#a3acae"
+                stroke-opacity="1.0" stroke-width="0.8266666"/>
+        <circle fill-opacity="1.0" fill="#e1f3f3" r="5.213333" cx="-461.9906"
+                class="id_United_States" cy="118.6047" stroke="#9daaaa"
+                stroke-opacity="1.0" stroke-width="0.90666664"/>
+        <circle fill-opacity="1.0" fill="#e4f4f5" r="5.06" cx="121.708954"
+                class="id_United_Kingdom" cy="161.0798" stroke="#9faaab"
+                stroke-opacity="1.0" stroke-width="0.88"/>
+        <circle fill-opacity="1.0" fill="#bae3da" r="7.206667" cx="410.0031"
+                class="id_Ukraine" cy="-256.6313" stroke="#829e98"
+                stroke-opacity="1.0" stroke-width="1.2533333"/>
+        <circle fill-opacity="1.0" fill="#e7f5f7" r="4.9066668" cx="-59.72317"
+                class="id_Switzerland" cy="-472.9521" stroke="#a1abac"
+                stroke-opacity="1.0" stroke-width="0.85333335"/>
+        <circle fill-opacity="1.0" fill="#0d783c" r="17.48" cx="-293.53638"
+                class="id_Soviet_Union" cy="-354.79736" stroke="#09542a"
+                stroke-opacity="1.0" stroke-width="3.04"/>
+        <circle fill-opacity="1.0" fill="#006d2c" r="18.4" cx="-169.33861"
+                class="id_Russia" cy="96.12583" stroke="#004c1e"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+        <circle fill-opacity="1.0" fill="#eaf6f9" r="4.753333" cx="173.28517"
+                class="id_Japan" cy="464.20477" stroke="#a3acae"
+                stroke-opacity="1.0" stroke-width="0.8266666"/>
+        <circle fill-opacity="1.0" fill="#e7f5f7" r="4.9066668" cx="-449.33966"
+                class="id_Italy" cy="-146.74548" stroke="#a1abac"
+                stroke-opacity="1.0" stroke-width="0.85333335"/>
+        <circle fill-opacity="1.0" fill="#e7f5f7" r="4.9066668" cx="391.39774"
+                class="id_Israel" cy="273.44168" stroke="#a1abac"
+                stroke-opacity="1.0" stroke-width="0.85333335"/>
+        <circle fill-opacity="1.0" fill="#cfece7" r="6.133333" cx="192.71254"
+                class="id_Germany" cy="-423.51236" stroke="#90a5a1"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#96d5c2" r="9.046667" cx="-78.65884"
+                class="id_France" cy="406.781" stroke="#699587"
+                stroke-opacity="1.0" stroke-width="1.5733334"/>
+        <circle fill-opacity="1.0" fill="#eaf6f9" r="4.753333" cx="175.23938"
+                class="id_Canada" cy="-108.97541" stroke="#a3acae"
+                stroke-opacity="1.0" stroke-width="0.8266666"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-328.3548" y="372.42645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belarus">
+            Belarus
+        </text>
+        <text font-size="12" x="-94.484024" y="-141.68176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_China">
+            China
+        </text>
+        <text font-size="12" x="471.07816" y="19.218966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Uzbekistan">
+            Uzbekistan
+        </text>
+        <text font-size="14" x="-461.9906" y="121.196655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_United_States">
+            United States
+        </text>
+        <text font-size="13" x="121.708954" y="164.09071" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_United_Kingdom">
+            United Kingdom
+        </text>
+        <text font-size="19" x="410.0031" y="-253.1724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ukraine">
+            Ukraine
+        </text>
+        <text font-size="13" x="-59.72317" y="-470.5453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Switzerland">
+            Switzerland
+        </text>
+        <text font-size="46" x="-293.53638" y="-346.28094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soviet_Union">
+            Soviet Union
+        </text>
+        <text font-size="48" x="-169.33861" y="104.8563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Russia">
+            Russia
+        </text>
+        <text font-size="12" x="173.28517" y="466.9489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Japan">
+            Japan
+        </text>
+        <text font-size="13" x="-449.33966" y="-143.73457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Italy">
+            Italy
+        </text>
+        <text font-size="13" x="391.39774" y="275.80618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Israel">
+            Israel
+        </text>
+        <text font-size="16" x="192.71254" y="-419.75714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Germany">
+            Germany
+        </text>
+        <text font-size="24" x="-78.65884" y="411.14624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_France">
+            France
+        </text>
+        <text font-size="12" x="175.23938" y="-106.75373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Canada">
+            Canada
+        </text>
+    </g>
+</svg>
