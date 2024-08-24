@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Arms Trade Analysis</title>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="container">
+        <h1 class="logo"><a href="#">Arms Trade Analysis</a></h1>
+        <ul>
+          <li><a href="#Network Analysis">Network Analysis</a></li>
+          <li><a href="#NLP Analysis">NLP Analysis</a></li>
+          <li><a href="#Predictive Results">Predictive Results</a></li>
+          
+        </ul>
+      </div>
+    </nav>
+    <div class="hero">
+      <div class="container">
+        <h1>Lords of War: A Global Arms Trade Analysis</h1>
+        <p>
+          Here are what you want to know about the global arms trade market.
+        </p>
+        <p>
+          Including how the arms trade network looks like, the key suppliers and recipients of the market, 
+          and statistical information about comments of transactions.
+        </p>
+      </div>
+    </div>
+    <section class="container content">
+      <h2 id="Network Analysis">Network Analysis</h2>
+      <h3 id="Overall Network Structure">Overall Network Structure</h3>
+      <p>
+        First of all, the overall structure of the arms trade network is shown below.
+        The network shows all the transcations (26631 totally) from 1940 to 2019 in the arms trade market of 250 nations and regions.
+        The left image shows the arms trade network with more active recipients get bigger display, 
+        and the right one shows the network with more active suppliers bigger.
+      <br>
+        The figures indicate that the key supplier of the whole market is definitely United States, 
+        with a totoal export transactions of 8612, which is two times higher than the second largest supplier Soviet Union,
+        with 3358 export transcations. 
+        The largest recipients in the market are India, Egypt and Thailand, with import transaction numbers
+        of 718, 615 and 562 respectively. 
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/total_in.svg" alt="Image 1">
+            <span class="image-title">Overall network emphasizes recipients</span>
+        </div>
+        <div class="image">
+            <img src="../svg/total_out.svg" alt="Image 2">
+            <span class="image-title">Overall network emphasizes suppliers</span>
+        </div>
+      </div>
+      
+      <h3 id="Network Variations Over Time">Network Variations Over Time</h3>
+      <p>
+        To better illustrate the variations of the arms trade network, the arms trade network in the 1950s and the 2010s
+        are shown below, and are also divided into two graphs, one emphasizes recipients and another emphasizes suppliers.
+        The network shows you that the key recipients and suppliers both have changed dramatically in the past few decades,
+        while United States maintains to be the largest supplier in the arms trade market.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/1950s_in.svg" alt="Image 3" style="height: 90%;">
+            <span class="image-title">Network emphasizes recipients in the 1950s</span>
+        </div>
+        <div class="image">
+            <img src="../svg/2010s_in.svg" alt="Image 4">
+            <span class="image-title">Network emphasizes recipients in the 2010s</span>
+        </div>
+      </div>
+
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/1950s_out.svg" alt="Image 5">
+            <span class="image-title">Network emphasizes suppliers in the 1950s</span>
+        </div>
+        <div class="image">
+            <img src="../svg/2010s_out.svg" alt="Image 6">
+            <span class="image-title">Network emphasizes suppliers in the 2010s</span>
+        </div>
+      </div>
+
+      <h3 id="Network Centrality">Network Centrality</h3>
+      <p>
+        Two algorithms are used to emphasize the centrality of the network, PageRank and Betweenness Centrality.
+      <br>
+        PageRank is an algorithm originally designed by Google's founders to rank web pages in search engine results. 
+        It evaluates the importance or relevance of a page based on the number and quality of links pointing to it. 
+        The underlying assumption is that more significant pages are likely to receive more links from other websites. 
+        In a broader context beyond the web, PageRank can be applied to any network of interconnected nodes to determine the importance of nodes within the network. 
+        The algorithm iteratively assigns a score to each node, 
+        based on the principle that connections to high-scoring nodes contribute more to the score of a node than equal connections to low-scoring nodes. 
+      <br>
+        Betweenness centrality is a measure of centrality in a graph based on shortest paths. 
+        For every pair of vertices in a connected graph, 
+        there exists at least one shortest path between the vertices such that either the number of edges that the path passes through is minimized. 
+        The betweenness centrality for each node is the number of these shortest paths that pass through the node. 
+        Intuitively, it measures the extent to which a node lies on paths between others. 
+        Nodes with high betweenness centrality play a critical role in the connectivity of the network and can be considered points of control or influence within the network, 
+        as they facilitate or constrain the flow of information.
+      <br>
+        The left figure shows the result using PageRank algorithm, 
+        and the right one indicates the betweenness centrality of each node.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/pagerank.svg" alt="Image 7">
+            <span class="image-title">PageRank of Each Node</span>
+        </div>
+        <div class="image">
+            <img src="../svg/between_central.svg" alt="Image 8">
+            <span class="image-title">Betweenness Centrality of Each Node</span>
+        </div>
+      </div>
+
+      <h2 id="NLP Analysis">NLP Analysis</h2>
+      <p>
+        This section aims to analyze the comments for transactions in the arms trade market in multiple aspects. 
+      </p>
+
+      <h3 id="Word Cloud">Word Cloud</h3>
+      <p>
+        Firstly, we have conducted some comment text cleaning work, including non-alphabetic characters removal, 
+        lowercase conversion, stop word removal, and formalization, so that the analytical results can be more accurate and convinced.
+        The figure below shows you the WordCloud graph of all comments, where the frequency of words is depicted with font size, 
+        highlighting the most prominent and recurring terms. We can conclude from the figure that the most frequent words 
+        are "Second hand", "aid", "combat" and "aircraft".
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/wordcloud.png" alt="Image 9" style="height: 90%;">
+            <span class="image-title">Word Cloud of Transaction Comments</span>
+        </div>
+      </div>
+
+      <h3 id="Dimension Reduction and Visualization">Dimension Reduction and Visualization</h3>
+      <p>
+        In this part, the cleaned comments data is firstly transferred as a TF-IDF matrix, where each row represents one transcation comment 
+        and each column corresponds to a unique word. 
+        The values in the matrix measure the importance of each word in the comment relative to its frequency 
+        across all comments for transcations, aiding in highlighting distinctive terms that are crucial for understanding 
+        the content of each comment.
+      </p>
+      <p>
+        The TF-IDF matrix is converted into two-dimensional data and visualized by two algorithms, T-SNE and UMAP.
+      <br>
+        <b>T-SNE:</b> The conditional probability that two points are neighbors is calculated as the similarity of two data points, and then low-dimensional mapping is carried out. The similarity is modeled by t distribution, and the gradient descent method is used to minimize the Kullback-Leibler divergence between high and low-dimensional representations. The algorithm is good at capturing the local structure of the data.
+		  <br>
+        <b>UMAP:</b> The algorithm visualizes the data distribution by reconstructing the topological structure of the high-dimensional space in the low-dimensional space, and realizes the low-dimensional visualization of the local and global structures that retain the original data by optimizing the cross-entropy loss function across different distance scales.
+      <br>
+        The visualization results of both algorithms are shown in the following figures, where the label of each comment
+        represents its supplier (1 represents United States and 0 represents other nations and regions).
+        In the visulized graphs you can see the distribution of comment data represented by TF-IDF algorithm.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/tsne.png" alt="Image 10" style="height: 90%;">
+            <span class="image-title">Data Distribution in T-SNE</span>
+        </div>
+        <div class="image">
+          <img src="../svg/umap.png" alt="Image 11" style="height: 90%;">
+          <span class="image-title">Data Distribution in UMAP</span>
+        </div>
+      </div>
+
+      <h3 id="Clustering">Clustering</h3>
+      <p>
+        We utilize the K-Means algorithm to cluster the TF-IDF matrix. 
+        K-Means is a powerful unsupervised machine learning algorithm that groups data into a predefined number of clusters based on their feature similarities. 
+        In this case, each cluster corresponds to transactions with similar commentary content, 
+        revealing common themes or patterns in arms trade transactions. 
+        This clustering helps in identifying distinct types of transactions and can uncover underlying trends or categories within the data.
+      <br>
+        The significance of using K-Means lies in its ability to partition the dataset into clusters that 
+        minimize the variance within each cluster, 
+        providing a concise summary of the data through the centroids of the clusters. 
+        These centroids represent the "average" comment within each cluster, 
+        characterized by the most representative terms in the comments of that cluster, 
+        which are identified by their high TF-IDF scores.
+      <br>
+        Before actually utilize K-Means for clustering, the silhouette coefficient algorithm is used to decide the data will be divided into how many clusters.
+      <br>  
+        The results are shown in the figure below. 
+        The left figure (elbow method) shows that as the number of clusters k increases, 
+        the degree of cluster distortion (Distortion) decreases.
+        The right figure (silhouette coefficient) shows the change of silhouette coefficient with the number of clusters k. 
+        The ideal silhouette coefficient is closer to 1, the better, and high points of the silhouette coefficient represent better cluster separation.
+        According to the silhouette coefficient algorithm, k=9 is recommended as the optimal number of clusters.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/cluster_num.png" alt="Image 12" style="height: 90%;">
+            <span class="image-title">Decide the Number of Clusters</span>
+        </div>
+      </div>
+      <p>
+        Then the K-Means is used to divide the data into 9 clusters. The result is shown below.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/kmeans_2.png" alt="Image 12" style="height: 90%;">
+            <span class="image-title">Clustering Result</span>
+        </div>
+      </div>
+      <p>
+        The 10 most frequent words in each cluster are shown as well, to help you better understand the transaction comments.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/cluster_result.png" alt="Image 12" style="height: 90%;">
+            <span class="image-title">Most Frequent Words in Each Cluster</span>
+        </div>
+      </div>
+
+
+      <h2 id="Predictive Results">Predictive Results</h2>
+      <h3 id="Task">Task</h3>
+      <p>
+        To train a classification model, 
+        in order to predict whether a transcation is supplied by the United States or not.
+      </p>
+
+      <h3 id="Naive Bayes Classifier">Naive Bayes Classifier</h3>
+      <p>
+        A Naive Bayes classifier is trained, 
+        where we utilize cross-validation (cv=5) to score the oversampled training set and the target variable (supplier). 
+        The scoring metric of the classifier is the weighted F1 score. 
+        Then the GridSearchCV method is used for hyperparameter tuning, in order to optimize the performance of the model.
+        The final F1 score is 91%, shown in the figure below.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/nb_classifier.png" alt="Image 13" style="height: 90%;">
+            <span class="image-title">Performance of Naive Bayes Classifier</span>
+        </div>
+      </div>
+      <p>
+        Next, SHAP is employed to examine the interpretability of the final model, 
+        analyzing the importance of numerically engineered columns from text, 
+        such as comments related to "secondhand," "aid," "combat," or "aircraft."
+      <br>
+        In the output shown below, 
+        SHAP values are displayed through a dot plot, where each dot represents a sample. 
+        The color of a dot indicates the level of a feature value (blue for low, red for high), 
+        and the position on the horizontal axis indicates the magnitude of the feature's impact on the model prediction 
+        (negative impact on the left, and positive impact on the right).
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/shap.png" alt="Image 14" style="height: 90%;">
+            <span class="image-title">SHAP for Model Interpretability</span>
+        </div>
+      </div>
+
+      <h3 id="CatBoost Classifier">CatBoost Classifier</h3>
+      <p>
+        A CatBoost Classifier is also trained later for better robustness and perfoemance.
+        CatBoost is a gradient boosting decision tree (GBDT) algorithm that is specially optimized for categorical data. 
+        It efficiently encodes categorical features and uses symmetric trees to reduce overfitting, 
+        while maintaining advantages in training speed and prediction accuracy.
+      <br>
+        A series of preworks have done before the classifier is actually trained. 
+        PCA is used to reduce the dimensionality of the original dummy variables, 
+        aiming to decrease model complexity and computational costs.
+        One-hot encoding, standardization, oversampling using SMOTE and normalization are also conducted before training the model.
+      <br>
+        The best model of the classifier reaches an accuracy of almost 97%, which is shown in the figure below.
+      </p>
+      <div class="image-container">
+        <div class="image">
+            <img src="../svg/cb_classifier.png" alt="Image 15" style="height: 90%;">
+            <span class="image-title">SHAP for Model Interpretability</span>
+        </div>
+      </div>
+
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
