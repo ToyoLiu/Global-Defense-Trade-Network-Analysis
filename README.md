@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/90dcf5c8-4122-45a2-9680-b2177b1dd677)
 ![image](https://github.com/user-attachments/assets/d7d65f6c-71b0-417d-9182-54ae941d1399)
 
-### Lords of War: A Global Arms Trade Analysis
+### Global Defense Trade Network Analysis
 
 **Brief Description:**  
 Analyzed global arms trade data using network analysis, natural language processing, and machine learning to uncover key patterns and trends in the international arms market, with a focus on the role of the United States as a supplier.
